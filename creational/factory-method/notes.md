@@ -103,7 +103,7 @@ func main() {
 	dialog = &MacDialog{}
 	dialog.RenderDialog()
 }
----
+```
 
 ## 🔗 References
 
